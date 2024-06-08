@@ -1,17 +1,19 @@
-# My name is Pedro Sousa
-##Welcome to my Github profile.
+# 👋 Hello! Welcome to my Github profile.
+## My name is Pedro Sousa
 
 - 🔭 Currently, I'm working as a software engineer at Teddy Digital.
 - 🌱 I'm currently learning Go and Java.
 - 👯 I'm looking to contribute to projects that can make a difference, no matter how small, in your life.
 - 💬 Feel free to ask me about anything.
 
-## I work with:
-<div>
-  
-<div>
+
+
+## I'm working with technologies:
+[![My Skills](https://skillicons.dev/icons?i=js,java,py,ts,go,cs,nodejs,react,nestjs,nextjs,spring,docker,git,kubernetes,aws,jenkins,linux,mysql,rabbitmq,redis&perline=10)](https://skillicons.dev)
+
 <br />
-  
+
+## Check my stats:
 <div>
 <a href="https://github.com/pedrohigordev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohigordev&layout=compact&langs_count=7&theme=dracula"/>
