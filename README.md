@@ -1,5 +1,5 @@
 <h2 align="center">Hello! Welcome to my Linkedin profile.</h2>
-<h3 align="center">My name is Pedro Sousa.</h3>
+<br />
 
 - 🔭 Currently, I'm working as a software engineer at Teddy Digital.
 - 🌱 I'm currently learning Go and Java.
