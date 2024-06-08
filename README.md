@@ -1,4 +1,4 @@
-<h2 align="center">Hello! Welcome to my Linkedin profile.</h2>
+<h2 align="center">Hello! Welcome to my GitHub profile.</h2>
 <br />
 
 - 🔭 Currently, I'm working as a software engineer at Teddy Digital.
