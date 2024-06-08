@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-### My name is Pedro Sousa
+<p align="center"><h2>👋 Hello! Welcome to my Github profile.<h2 /></p>
+<p align="center"><h2>My name is Pedro Sousa<h2 /></p>
 
 - 🔭 Currently, I'm working as a software engineer at Teddy Digital.
 - 🌱 I'm currently learning Go and Java.
@@ -7,7 +7,11 @@
 - 💬 Feel free to ask me about anything.
 
 ## I work with:
-
+<div>
+  
+<div>
+<br />
+  
 <div>
 <a href="https://github.com/pedrohigordev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohigordev&layout=compact&langs_count=7&theme=dracula"/>
