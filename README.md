@@ -8,7 +8,7 @@
 
 ## I work with
 
-<i class="devicon-docker-plain colored"></i>
+<i class="devicon-docker-plain colored">Node</i>
           
 
 <div>
