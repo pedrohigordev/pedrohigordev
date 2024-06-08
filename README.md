@@ -8,7 +8,7 @@
 
 ## I work with
 
-<i class="devicon-docker-plain colored">Node</i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
           
 
 <div>
