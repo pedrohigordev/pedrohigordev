@@ -1,5 +1,5 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is Pedro Sousa
+# 👋 Hello! Welcome to my Github profile.
+## My name is Pedro Sousa
 
 - 🔭 Currently, I'm working as a software engineer at Teddy Digital.
 - 🌱 I'm currently learning Go and Java.
