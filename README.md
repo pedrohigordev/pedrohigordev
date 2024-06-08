@@ -23,6 +23,7 @@
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" title = "DOTNET"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
 
+<br />
 
 <div>
 <a href="https://github.com/pedrohigordev">
