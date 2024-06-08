@@ -1,5 +1,4 @@
 # 👋 Hello! Welcome to my Linkedin profile.
-## My name is Pedro Sousa
 
 ## I'm working with technologies:
 <p align="center">
