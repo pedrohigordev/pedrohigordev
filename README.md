@@ -1,7 +1,11 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Hello! Welcome to my Linkedin profile.
 ## My name is Pedro Sousa
 
-- 🔭 Currently, I'm working as a software engineer at Teddy Digital.
+## I'm working with technologies:
+[![My Skills](https://skillicons.dev/icons?i=js,java,py,ts,go,cs,nodejs,react,nestjs,nextjs,spring,docker,git,kubernetes,aws,jenkins,linux,mysql,rabbitmq,redis&perline=10)](https://skillicons.dev)
+
+
+- 🔭 Currently, I'm working as a software.
 - 🌱 I'm currently learning Go and Java.
 - 👯 I'm looking to contribute to projects that can make a difference, no matter how small, in your life.
 - 💬 Feel free to ask me about anything.
