@@ -1,7 +1,6 @@
 <h2 align="center">Hello! Welcome to my GitHub profile.</h2>
 <br />
 
-- 🔭 Currently, I'm working as a software engineer at Teddy Digital.
 - 🌱 I'm currently learning Go and Java.
 - 👯 I'm looking to contribute to projects that can make a difference, no matter how small, in your life.
 - 💬 Feel free to ask me about anything.
